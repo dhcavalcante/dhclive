@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/404945?w=646&h=284" group-title="ESPORTES", ESPN
 https://hostplayer.click/44/tracks-v1a1/mono.ts.m3u8?DVR&autoplay=true&token=fac313af75d55f77f7cd97dadcbf2172893addaa-e997d09bedc3367f994f5011131082b5-1754631792-1754620992
-
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/404945?w=646&h=284" group-title="ESPORTES", SportvPT1
+https://hostplayer.click/49/tracks-v1a1/mono.ts.m3u8?DVR&autoplay=true&token=54c2ffe5156e26d8d67992ad2130a200eba8c076-a9799caeaf320f94f653633f9ed88170-1754638523-1754627723
