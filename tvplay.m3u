@@ -439,3 +439,41 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/a7i5fpzezv/
 #KODIPROP:inputstream.adaptive.license_key=bc9f3a3f7ce7922c3b599e2e0c1f7830:4591bf63837b4b342058c5e11a51744a
 https://a182aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/1hz9ifohl2/out/v1/ac9abc088bfa42d49218644005535e02/cenc.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV" tvg-logo="" group-title="Portugal",PT: CMTV
+http://nocable.cc:8080/09330332/43755081/78441
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI" tvg-logo="" group-title="Portugal",PT: TVI
+http://nocable.cc:8080/09330332/43755081/78526
+#EXTINF:-1 tvg-id="" tvg-name="PT BENFICA TV HD  (P)" tvg-logo="" group-title="Portugal",PT BENFICA TV HD  (P)
+http://nocable.cc:8080/09330332/43755081/136726
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="Portugal",PT: RTP 1 FHD
+http://nocable.cc:8080/09330332/43755081/164792
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN HD" tvg-logo="" group-title="Portugal",PT: CNN HD
+http://nocable.cc:8080/09330332/43755081/164802
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="" group-title="Portugal",PT: TV CINE ACTION FHD
+http://nocable.cc:8080/09330332/43755081/164809
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="" group-title="Portugal",PT: NOS STUDIOS FHD
+http://nocable.cc:8080/09330332/43755081/164811
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="" group-title="Portugal",PT: HOLLYWOOD FHD
+http://nocable.cc:8080/09330332/43755081/164813
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE FHD" tvg-logo="" group-title="Portugal",PT: AXN WHITE FHD
+http://nocable.cc:8080/09330332/43755081/164815
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES  HD" tvg-logo="" group-title="Portugal",PT: AXN MOVIES  HD
+http://nocable.cc:8080/09330332/43755081/164818
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="" group-title="Portugal",PT: SYFY FHD
+http://nocable.cc:8080/09330332/43755081/164821
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO HD" tvg-logo="" group-title="Portugal",PT: TV GLOBO HD
+http://nocable.cc:8080/09330332/43755081/164824
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
+http://nocable.cc:8080/09330332/43755081/167742
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 2 HD
+http://nocable.cc:8080/09330332/43755081/167743
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
+http://nocable.cc:8080/09330332/43755081/167744
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 4 FHD
+http://nocable.cc:8080/09330332/43755081/167745
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
+http://nocable.cc:8080/09330332/43755081/167748
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
+http://nocable.cc:8080/09330332/43755081/167749
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
+http://nocable.cc:8080/09330332/43755081/167750
