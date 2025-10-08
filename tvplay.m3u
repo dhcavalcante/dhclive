@@ -439,3 +439,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/a7i5fpzezv/
 #KODIPROP:inputstream.adaptive.license_key=bc9f3a3f7ce7922c3b599e2e0c1f7830:4591bf63837b4b342058c5e11a51744a
 https://a182aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/1hz9ifohl2/out/v1/ac9abc088bfa42d49218644005535e02/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://reidoscanais.life/logo.png" group-title="Filmes",Superman 2025
+http://127.0.0.1:11470/86b4be628a9b4df86252a8d3d7146253a57b6c4b/1
+
