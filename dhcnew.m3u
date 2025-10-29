@@ -1,7 +1,7 @@
 #EXTM3U
-*FILMES
 
-#EXTINF:-1 tvg-id="" tvg-name="Duna - Parte Dois" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oAP9v4ifxl3h6t9LW4C9diO6sjs.jpg" group-title="FILMES | HBO MAX",Parte Dois
+
+#EXTINF:-1 tvg-id="" tvg-name="Duna - Parte Dois" tvg-logo="https://mx.web.img2.acsta.net/pictures/24/01/24/20/40/2403201.jpg" group-title="FILMES | HBO MAX",Parte Dois
 https://store-024.weur.tb-cdn.st/dld/aec8270f-6dbb-4b56-9a3c-42d66393669e?token=398ab34a-7169-4493-9b5e-07768aa8eb23
 
 *SERIES
