@@ -1,10 +1,12 @@
 #EXTM3U
 *FILMES
 
-#EXTINF:-1 tvg-id="" tvg-name="Aves de Rapina 4k (1948)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oAP9v4ifxl3h6t9LW4C9diO6sjs.jpg" group-title="FILMES | 4K",Aves de Rapina 4k (1948)
-https://store-022.weur.tb-cdn.st/dld/d48123e3-f2ea-49c8-9499-ccbb2c64acc9?token=398ab34a-7169-4493-9b5e-07768aa8eb23
+#EXTINF:-1 tvg-id="" tvg-name="Duna - Parte Dois" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oAP9v4ifxl3h6t9LW4C9diO6sjs.jpg" group-title="FILMES | HBO MAX",Parte Dois
+https://store-024.weur.tb-cdn.st/dld/aec8270f-6dbb-4b56-9a3c-42d66393669e?token=398ab34a-7169-4493-9b5e-07768aa8eb23
 
 *SERIES
 
 #EXTINF:-1 tvg-id="" tvg-name="O dia do Chacal S01 E01" tvg-logo="https://media.fstatic.com/elLh9NE4vvyZNiGQsWWTiXZx4e0=/210x312/smart/filters:format(webp)/media/movies/covers/2024/11/MV5BYmI3NDY1MGYtNTJmNy00NjA3LTk1OWUtM2IyN2M3MjFiMTZkXkEyXkFqcGc._V_jGiDRB4.jpg" group-title="SERIES | DISNEY+",O dia do Chacal S01 E01
 https://store-022.weur.tb-cdn.st/dld/d48123e3-f2ea-49c8-9499-ccbb2c64acc9?token=398ab34a-7169-4493-9b5e-07768aa8eb23
+#EXTINF:-1 tvg-id="" tvg-name="O dia do Chacal S01 E02" tvg-logo="https://media.fstatic.com/elLh9NE4vvyZNiGQsWWTiXZx4e0=/210x312/smart/filters:format(webp)/media/movies/covers/2024/11/MV5BYmI3NDY1MGYtNTJmNy00NjA3LTk1OWUtM2IyN2M3MjFiMTZkXkEyXkFqcGc._V_jGiDRB4.jpg" group-title="SERIES | DISNEY+",O dia do Chacal S01 E02
+https://store-022.weur.tb-cdn.st/dld/1381c66d-1941-45f2-b81d-1d5e50e50641?token=398ab34a-7169-4493-9b5e-07768aa8eb23
